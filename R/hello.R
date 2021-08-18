@@ -13,4 +13,4 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-install.packages("ggplot")
+install.packages("ggplot2")
